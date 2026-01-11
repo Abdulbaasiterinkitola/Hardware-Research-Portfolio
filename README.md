@@ -1,6 +1,6 @@
 # Hardware Research Portfolio
 
-This portfolio contains documentation and design files for hardware automation projects.
+This portfolio contains documentation and design files for my personal research and group hardware automation projects.
 
 ## Projects
 
